@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gallant4114
-- 👀 I’m interested in Web Development and Cyber Security
+- 👀 I’m interested in Web Development, Cyber Security, and IoT.
 - 🌱 I’m currently learning JavaScript
 - 📫 
 - 😄 Pronouns: he/him
