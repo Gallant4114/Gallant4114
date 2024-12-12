@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gallant4114
+- 👋 Hi, I’m Gallant Damas Hayuaji
 - 👀 I’m interested in Web Development, Cyber Security, and IoT.
 - 🌱 I’m currently learning JavaScript
 - 📫 
